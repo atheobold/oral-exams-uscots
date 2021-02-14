@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   word_document: default
+  html_document: default
 ---
 
 # Oral Assessments: Building a Community of Statistical Thinkers and Speakers
