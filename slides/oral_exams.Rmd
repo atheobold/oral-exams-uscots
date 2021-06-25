@@ -1,0 +1,91 @@
+---
+title: "Oral Assessments:"
+subtitle: "Building a Community of Statistical Thinkers and Speakers"
+author: "<br> [bit.ly/oral-exams-uscots](https://bit.ly/oral-exams-uscots)"
+date: "<br> Allison Theobold & Paul Roback"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["xaringan-themer.css", "slide-style.css"]
+    nature:
+      highlightStyle: solarized-light
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+---
+
+```{r setup, include = FALSE}
+# R options
+options(
+  htmltools.dir.version = FALSE,
+  tibble.width = 65,
+  width = 65
+  )
+
+# figure height, width, dpi
+knitr::opts_chunk$set(fig.width = 8, 
+                      fig.asp = 0.618,
+                      out.width = "60%",
+                      fig.align = "center",
+                      dpi = 300)
+
+# fontawesome
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+
+# magick
+dev.off <- function(){
+  invisible(grDevices::dev.off())
+}
+
+# countdown pkg for all slide decks
+library(countdown)
+
+# xaringanExtra
+library(xaringanExtra)
+xaringanExtra::use_panelset()
+
+```
+
+layout: true
+  
+<div class="my-footer">
+<span>
+<a href="http://bit.ly/oral-exams" target="_blank"><b>http://bit.ly/oral-exams</b></a> - Dr. Allison Theobold & Dr. Paul Roback
+</span>
+</div> 
+
+---
+
+class: middle
+
+**Oral assessments:** Instead of presenting pre-written material, the teacher
+writes code in front of the class while the learners follow along, typing it in and
+running it as they go.
+
+```
+code to highlight
+```
+
+```{r, eval = FALSE}
+library(tidyverse)
+```
+
+---
+
+class: inverse, middle
+
+# .hand[Why] oral exams?
+
+---
+
+class: middle
+
+.hand[
+]
+
+---
