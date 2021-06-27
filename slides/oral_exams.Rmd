@@ -1,8 +1,8 @@
 ---
 title: "Oral Assessments:"
 subtitle: "Building a Community of Statistical Thinkers and Speakers"
-author: "<br> [bit.ly/oral-exams-uscots](https://bit.ly/oral-exams-uscots)"
-date: "<br> Allison Theobold & Paul Roback"
+author: "<br> Allison Theobold & Paul Roback"
+date: "<br> [bit.ly/oral-exams](https://bit.ly/oral-exams)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -55,37 +55,280 @@ layout: true
   
 <div class="my-footer">
 <span>
-<a href="http://bit.ly/oral-exams" target="_blank"><b>http://bit.ly/oral-exams</b></a> - Dr. Allison Theobold & Dr. Paul Roback
+<a href="http://bit.ly/oral-exams target="_blank"><b>http://bit.ly/oral-exams</b></a> - Allison Theobold & Paul Roback
 </span>
 </div> 
 
+
+```{r set-theme, include = FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color      = "#b76352", # mango
+  secondary_color    = "#34605f", # bayberry
+  header_font_google = google_font("Raleway"),
+  text_font_google   = google_font("Raleway", "300", "300i"),
+  code_font_google   = google_font("Source Code Pro"),
+  header_color = "#793540", #rhubarb
+  white_color = "#F5F5F5", # lightest color
+  black_color = "#36454F", # darkest color
+  text_font_size = "30px", 
+  link_color = "#696969" #grey
+)
+```
+
 ---
 
-class: middle
+class: middle, center
 
-**Oral assessments:** Instead of presenting pre-written material, the teacher
-writes code in front of the class while the learners follow along, typing it in and
-running it as they go.
+# .larger[A variety of oral assessments]
 
-```
-code to highlight
-```
+.large[
+**Paul** -- A follow-up assessment to a homework assignment 
 
-```{r, eval = FALSE}
-library(tidyverse)
-```
+**Allison** -- A summative midterm or final exam 
+]
 
 ---
 
 class: inverse, middle
 
-# .hand[Why] oral exams?
+# .larger[.hand[Why] oral assessments?]
 
 ---
 
-class: middle
+# .larger[Course Setting]
 
-.hand[
+--
+
+.pull-left[
+.large[
+- Second semester course
+
+- Linear model focused, introduction to experimental design
+]
+]
+
+--
+
+.pull-right[
+.large[
+- Two sections -- 35 students per course
+
+- Entirely online
+
+- 10 weeks
+]
+]
+---
+
+class: middle, center 
+
+# .larger[Exam Setting]
+
+--
+
+.pull-left[ .large[
+Midterm Exam - Week 6
+]
+
+.bitlarger[
+**Data Summaries**  
+
+**Data Visualization**  
+
+**Regression Explorations**
+]
+]
+
+--
+
+.pull-right[
+.large[
+Final Exam - Week 11
+]
+
+.bitlarger[
+**Inference**
+
+**Simulation & Theoretical Methods for Regression**
+
+**ANOVA**
+]
 ]
 
 ---
+
+# .larger[Exam Style]
+
+.large[
+- "Big Picture" conceptual questions
+
+  - Distilled concepts into 5-6 questions per unit
+]
+
+--
+
+.large[
+- Holistic rubric grading 
+
+  - Scores 0-4 based on understanding of concepts
+]
+
+
+---
+
+class: inverse 
+
+<center>
+.huge[Experiences]
+</center>
+
+--
+
+.large[
+- Initially students are very intimidated
+]
+
+--
+.large[
+- Listening to students voice their ideas is incredibly insightful 
+]
+
+--
+
+.large[
+- Talking aloud about statistics can be empowering
+]
+
+---
+
+class: middle 
+
+# .larger[Your turn!]
+
+.pull-left[
+# .your-turn[
+
+Discuss these ideas with fellow educators
+
+]
+]
+
+--
+
+.pull-right[
+.large[
+- Initial reactions
+
+- Ideas that resonate with you
+
+- Ideas you are unsure about
+]
+]
+---
+
+class: inverse, middle 
+
+# .large[.hand[Designing an Oral Exam]]
+
+--
+
+- Providing practice prior to exam
+
+--
+
+- How long should each exam take?
+
+--
+
+- Should the questions be open or closed? 
+
+--
+
+- Determine how students should prepare
+
+---
+
+# .larger[Implementation] 
+
+.large[
+- "Think out loud" recordings & small group collaborations
+]
+
+--
+
+.large[
+- 10-minute exams
+]
+
+--
+
+.large[
+- Two "big picture" conceptual questions 
+]
+
+--
+
+.large[
+- Questions published the Friday before exams
+]
+
+
+---
+
+class: inverse
+
+# .large[.hand[Facilitating the Exam]]
+
+--
+
+.large[
+- Zoom with a waiting room turned on
+]
+
+.tip[Tip: Use a software that allows for recording!]
+
+--
+
+.large[
+- Exam slot sign-up through Google Sheet
+]
+
+.tip[Tip: Set a sign-up deadline!]
+
+---
+
+class: middle 
+
+# .larger[Your turn!]
+
+.pull-left[
+.larger[.your-turn[
+**Design an oral exam!**
+]
+]
+]
+
+--
+
+.pull-right[.large[
+- **5 minutes** -- sketch out ideas for an oral exam you would like to implement
+- **10 minutes** -- Get feedback on your assessment sketch
+]
+]
+
+---
+
+class: inverse, middle, center 
+
+.huge[Final Questions?]
+
+---
+
+class: middle, center 
+
+.larger[**Resources**]
+
+Allison's JSE Commentary: <https://bit.ly/oral-exams-jse>.
+
+Paul & Kelly McConville's Post: <https://bit.ly/ask-good-questions-oral-exams>  

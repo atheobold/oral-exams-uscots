@@ -11,14 +11,12 @@
 /* colors */
 :root {
   --dark-blue: #2c4673;
-  --light-blue: #5286c2;
-  --rhubarb: #793540;
   --bay-berry: #34605f;
   --gray: #7b7b89;
   --pink: #a17b76;
   --honey: #ba9645;
   --rhubarb-faint: #79354050;
-  --light-blue-faint: #5286c250;
+  --dark-blue-faint: #2c467350;
   --pink-faint: #a17b7650;
   --bay-berry-faint: #34605f50;
 }
@@ -26,9 +24,6 @@
 /* Font colors */
 .dark-blue {
   color: var(--dark-blue);
-}
-.light-blue {
-  color: var(--light-blue);
 }
 .rhubarb {
   color: var(--rhubarb);
@@ -49,17 +44,23 @@
 
 /* Title slide customization */
 .title-slide h1, h2, h3 {
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   font-family: Raleway;
 }
 
 .title-slide h1 {
-  color: #000000;
+  color: #1B1212;
+  font-size: 300%;
+}
+
+.title-slide h2 {
+  color: #1B1212;
+  font-size: 200%;
 }
 
 .title-slide a {
-  color: var(--gray);
+  color: var(--bay-berry);
 }
 
 /* Alignment */
@@ -104,7 +105,7 @@ h1, h2, h3 {
  font-family: 'Montserrat', sans-serif;
  font-size: 1700%;
  font-weight: bold;
- color: var(--light-blue);
+ color: var(--dark-blue);
 }
 .huge-pink-number {
  font-family: 'Montserrat', sans-serif;
@@ -172,11 +173,11 @@ div.my-footer span {
     font-size: 20px;
     position: absolute;
     bottom: 15px;
-    color: #8A8A8A;
+    color: #000000;
 }
 div.my-footer a {
     font-size: 20px;
-    color: #8A8A8A;
+    color: #000000;
 }
 
 
@@ -203,7 +204,7 @@ div.my-footer a {
 }
 
 .your-turn {
-  border-left: solid 5px var(--light-blue);
+  border-left: solid 5px var(--pink);
 }
 
 
