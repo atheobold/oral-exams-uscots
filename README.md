@@ -6,13 +6,13 @@ Thursday, July 1st, 2021
 
 ---
 
-### :computer: 
+### 💻 
 
 [Allison's Slides](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html)
 
 [Paul's Slides]()
 
-### :pen: 
+### 📖
 
 [Allison's JSE Commentary](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)
 
