@@ -8,17 +8,17 @@ Thursday, July 1st, 2021
 
 ### 💻 
 
-[Allison's Slides](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html)
+- [Allison's Slides](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html)
 
-[Paul's Slides]()
+- [Paul's Slides]()
 
 ### 📖
 
-[Allison's JSE Commentary](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)
+- [Allison's JSE (Brief) Commentary](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)
 
-[Paul and Kelly McConville's *Ask Good Questions* Post](https://askgoodquestions.blog/2021/02/08/84-giving-oral-exams/)
+- [Paul and Kelly McConville's *Ask Good Questions* Post](https://askgoodquestions.blog/2021/02/08/84-giving-oral-exams/)
 
-[Holistic Rubric for Mastery Based Grading]()
+- [Holistic Rubric for Mastery Based Grading](https://atheobold.github.io/oral-exams-uscots/resources/rubric.pdf)
 
 ---
 
