@@ -1,1 +1,7 @@
+title: Oral assessments
+description: Materials for the 'Oral assessments' breakout at USCOTS 2021
+logo: images/notepad.jpg
+show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jemoji
