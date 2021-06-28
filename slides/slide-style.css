@@ -11,10 +11,12 @@
 /* colors */
 :root {
   --dark-blue: #2c4673;
+  --mango: #b76352;
   --bay-berry: #34605f;
   --gray: #7b7b89;
   --pink: #a17b76;
   --honey: #ba9645;
+  --rhubarb: #793540;
   --rhubarb-faint: #79354050;
   --dark-blue-faint: #2c467350;
   --pink-faint: #a17b7650;
@@ -39,6 +41,9 @@
 }
 .bayberry{
   color: var(--bay-berry);
+}
+.mango{
+  color: var(--mango);
 }
 
 
@@ -88,6 +93,7 @@ h1, h2, h3 {
    font-weight: bold;
 }
 .larger { font-size: 250% }
+.bitlarger{ font-size: 200%}
 .large { font-size: 150% }
 .midi { font-size: 85% }
 .small { font-size: 70% }
