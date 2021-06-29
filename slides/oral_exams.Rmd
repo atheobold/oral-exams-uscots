@@ -117,7 +117,7 @@ class: middle, center, inverse
 # .pink[.hand[.large[A variety of oral assessments]]]
 
 .large[
-.honey[Paul] -- A follow-up assessment to a homework assignment 
+.honey[Paul] -- A follow-up assessment to a homework assignment or exam
 
 .mango[Allison] -- A summative midterm or final exam 
 ]
@@ -235,15 +235,69 @@ class: inverse, middle
 
 ---
 
+# .larger[Personally...]
+
+.center[
+.pull-left[
+.large[
+Experience with oral exams 
+during undergrad Analysis
+]
+]
+]
+
+--
+.center[
+.pull-right[
+.large[
+Left me feeling empowered! 
+
+```{r out.width="40%", echo=FALSE, fig.align='center'}
+knitr::include_graphics("../images/muscle.png")
+```
+]
+]
+]
+
+---
+
+# .larger[Professionally...]
+
+.pull-left[
+.large[
+GAISE emphasis on conceptual understanding
+
+Facets of understanding 
+]
+]
+
+--
+
+.pull-right[
+.large[
+Witnessing the increase in cheating in the spring of 2020.
+]
+]
+
+---
+
+class: middle, center
+
+# .larger[As new faculty...]
+
+.larger[oral assessments promote a stronger connection with individual students]
+
+---
+
 # .larger[Course Setting]
 
 --
 
 .pull-left[
 .large[
-- Second semester course
+- Second semester statistics course
 
-- Linear model focused, introduction to experimental design
+- Linear model focused, with an introduction to experimental design
 ]
 ]
 
@@ -270,7 +324,7 @@ class: middle, center
 Midterm Exam - Week 6
 ]
 
-.bitlarger[
+.midlarge[
 **Data Summaries**  
 
 **Data Visualization**  
@@ -286,7 +340,7 @@ Midterm Exam - Week 6
 Final Exam - Week 11
 ]
 
-.bitlarger[
+.midlarge[
 **Inference**
 
 **Simulation & Theoretical Methods for Regression**
@@ -302,17 +356,28 @@ Final Exam - Week 11
 .large[
 - "Big Picture" conceptual questions
 
-  - Distilled concepts into 5-6 questions per unit
+  - Distilled concepts into 5-6 questions per "unit"
 ]
 
 --
 
+>"Explain to someone who has never taken a statistics course what a p-value is."
+>
+>"What are the similarities and differences between a two-way ANOVA model and a multiple linear regression?"
+
+
+
+---
+
+# .larger[Grading]
+
 .large[
 - Holistic rubric grading 
 
-  - Scores 0-4 based on understanding of concepts
+- Scores 0-4 based on understanding of concepts
+  - Ability to articulate the central concepts
+  - Type of errors made 
 ]
-
 
 ---
 
@@ -360,7 +425,7 @@ class: middle
 
 Discuss these ideas with fellow educators
 
-```{r echo = FALSE, fig.align = 'left'}
+```{r echo = FALSE}
 countdown(minutes = 20)
 ```
 ]
@@ -521,8 +586,11 @@ class: inverse, middle, center
 
 class: middle, center 
 
-.larger[**Resources**]
+.larger[ 📖 **Resources**]
+
+Example Oral Assessments: <https://bit.ly/oral-exams>
 
 Allison's JSE Commentary: <https://bit.ly/oral-exams-jse>.
 
 Paul & Kelly McConville's Post: <https://bit.ly/ask-good-questions-oral-exams>  
+

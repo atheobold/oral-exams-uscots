@@ -6,13 +6,14 @@ Thursday, July 1st, 2021
 
 ---
 
-### 💻 : Slides
+### 💻 : [Slides](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html)
 
-- [Allison's Slides](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html)
+1. [Why oral exams? - Paul](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#6)
+2. [Why oral exams? - Allison](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#13)
+3. [Designing oral exams - Allison](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#27)
+4. [Designing oral exams - Paul](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#39)
 
-- [Paul's Slides]()
-
-### 📖 : Additional Resources
+### : Additional Resources
 
 - [Allison's JSE (Brief) Commentary](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)
 
@@ -20,9 +21,7 @@ Thursday, July 1st, 2021
 
 - [Holistic Rubric for Mastery Based Grading](https://atheobold.github.io/oral-exams-uscots/resources/rubric.pdf)
 
-- [Example Exam Question Bank (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/question_bank.pdf)
-
-- [Example Follow-up Questions (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/example_questions.pdf)
+- [Example Exam Question Bank with Follow-up Questions (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/question_bank.pdf)
 
 - [Example Post Homework Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/mini-quiz2.pdf)
 
