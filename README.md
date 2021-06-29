@@ -32,10 +32,13 @@ Throughout the session participants will consider how they might apply ideas bei
 
 ## Instructors
 
-<img src="images/allison.jpg" align = "right" width = "100px">
+<img src="images/allison.jpg" align = "right" width = "115px" height = "150px">
 
 [**Allison Theobold**](https://statistics.calpoly.edu/allison-theobold) (California Polytechnic University) is and Assistant Professor in the Department of Statistics at Cal Poly in beautiful San Luis Obispo, California. Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy, computing, and reproducible research. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discoursive spaces and equitable group collaborations. 
 
-<img src="images/paul.jpg" align = "right" width = "100px">
+Allison is actively involved in the Carpentries community, both as a certified instructor and curriculum maintainer. 
 
-[**Paul Roback**]() (St. Olaf College) is a Kenneth Bjork Distinguished Professor of Mathematics, Statistics, and Computer Science and Director of the Center for Interdisciplinary Research at St. Olaf College. 
+<img src="images/paul.jpg" align = "right" width = "115px" height = "150px">
+
+[**Paul Roback**]() (St. Olaf College) is the Kenneth O. Bjork Distinguished Professor of Statistics and Data Science and Director of the Center for Interdisciplinary Research at St. Olaf College in Northfield, Minnesota.  Paul recently completed the book [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) with Julie Legler.  Paul is the past Chair of the ASA Section on Statistical and Data Science Education, conducts applied research using multilevel modeling, text analysis, and Bayesian methods, and has been a statistical consultant in the pharmaceutical, health care, and food processing industries. 
+is a Kenneth Bjork Distinguished Professor of Mathematics, Statistics, and Computer Science and Director of the Center for Interdisciplinary Research at St. Olaf College. 
