@@ -20,11 +20,13 @@ Thursday, July 1st, 2021
 
 - [Holistic Rubric for Mastery Based Grading](https://atheobold.github.io/oral-exams-uscots/resources/rubric.pdf)
 
-- [Example Exam Question Bank (Allison)]()
+- [Example Exam Question Bank (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/question_bank.pdf)
 
-- [Example Exam Question Bank (Paul)]()
+- [Example Follow-up Questions (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/example_questions.pdf)
 
-- [Example Exam Question Bank (Allison)]()
+- [Example Post Homework Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/mini-quiz2.pdf)
+
+- [Example Final Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/Exam 1 Review.pdf)
 
 
 ---
@@ -41,9 +43,7 @@ Throughout the session participants will consider how they might apply ideas bei
 
 <img src="images/allison.jpg" align = "right" width = "115px" height = "150px">
 
-[**Allison Theobold**](https://statistics.calpoly.edu/allison-theobold) (California Polytechnic University) is and Assistant Professor in the Department of Statistics at Cal Poly in beautiful San Luis Obispo, California. Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy, computing, and reproducible research. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discoursive spaces and equitable group collaborations. 
-
-Allison is actively involved in the Carpentries community, both as a certified instructor and curriculum maintainer. 
+[**Allison Theobold**](https://statistics.calpoly.edu/allison-theobold) (California Polytechnic University) is and Assistant Professor in the Department of Statistics at Cal Poly in beautiful San Luis Obispo, California. Allison's work focuses on innovation in statistics and data science education, with an emphasis on equitable pedagogy, computing, and reproducible research. Allison is also interested in exploring pedagogical approaches for enhancing retention of under-represented students in STEM, including creating inclusive discoursive spaces and equitable group collaborations. Allison is also actively involved in the Carpentries community, both as a certified instructor and curriculum maintainer. 
 
 <img src="images/paul.jpg" align = "right" width = "115px" height = "150px">
 
