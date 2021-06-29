@@ -142,6 +142,95 @@ class: middle
 
 class: inverse, middle
 
+# .larger[Why oral assessments?]
+
+---
+
+.center[
+# Why? 
+]
+
+.pull-left[.midlarge[
+- Insight about understanding
+
+- No memorized definitions
+  * Have students talk through process
+
+  * Ability to ask follow-up questions
+]
+]
+
+.pull-right[.midlarge[
+- Online courses
+
+  - More one-on-one interaction
+  
+  - Experimentation is okay!
+]
+]
+
+---
+
+# .larger[Exam Style]
+
+.large[Context: Statistical Modeling]
+
+
+  - Separate "mini-test" 
+  - Followed first logistic regression HW
+  - Some questions on conceptual understanding
+  - Some questions on applying ideas to new scenarios
+
+---
+
+# .larger[Exam Style]
+
+.large[Context: Statistical Theory]
+
+  - Part of first midterm
+  - Topics: frequentist principles and Bayes vs. Frequentist
+  - Check conceptual understanding and fitting ideas together
+
+---
+
+class: middle, center 
+
+# .larger[Exam Format]
+
+--
+
+.pull-left[ .large[Similarities
+]
+
+.midlarge[
+**15 minutes per student**  
+
+**Zoom**  
+
+**Adaptable script**
+
+**4-point assessment rubric**
+]
+]
+
+--
+
+.pull-right[
+.large[
+Differences
+]
+
+.midlarge[
+**Reflect on completed work**
+
+**Share screens / R**
+]
+]
+
+---
+
+class: inverse, middle
+
 # .larger[.hand[Why oral assessments?]]
 
 ---
@@ -282,7 +371,7 @@ countdown(minutes = 20)
 
 class: inverse, middle 
 
-# .large[.hand[Designing an Oral Exam]]
+# .large[Allison: .hand[Designing an Oral Exam]]
 
 --
 
@@ -348,6 +437,58 @@ class: inverse
 ]
 
 .tip[Tip: Set a sign-up deadline!]
+
+---
+
+class: inverse, middle 
+
+# .large[Paul: .hand[Design Guidelines]]
+
+---
+
+# Questions to consider, pt. 1
+
+- Where does your oral assessment fit into your overall assessment plan?
+
+  - HW?  Quiz?  Exam?  Project?
+
+--
+
+- What content will you assess?
+
+  - Individual concepts?  Big picture?  Applications?
+
+--
+
+- What format will you use?
+
+  - Time?  Zoom or in-person?  R?  Whiteboard?
+
+--
+
+- What questions will you ask?
+
+  - Fixed set for each student?  Pick from a list?  Free flowing conversation?
+
+---
+
+# Questions to consider, pt. 2
+
+- How will you help students prepare?
+
+  - Practice oral assessments?  Sample questions?  Discussion groups?
+  
+--
+
+- How will you relieve student anxiety?
+
+  - Friendly chit-chat?  Let them pick first question to answer?  Let them know pauses and (initial) wrong answers are okay?
+
+--
+
+- How will you assess student performance?
+
+  - Scoring rubric?  Individualized feedback?
 
 ---
 
