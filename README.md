@@ -13,7 +13,7 @@ Thursday, July 1st, 2021
 3. [Designing oral exams - Allison](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#27)
 4. [Designing oral exams - Paul](https://atheobold.github.io/oral-exams-uscots/slides/oral_exams.html#39)
 
-### : Additional Resources
+### 📝 : Additional Resources
 
 - [Allison's JSE (Brief) Commentary](https://www.tandfonline.com/doi/full/10.1080/26939169.2021.1914527)
 
@@ -21,11 +21,11 @@ Thursday, July 1st, 2021
 
 - [Holistic Rubric for Mastery Based Grading](https://atheobold.github.io/oral-exams-uscots/resources/rubric.pdf)
 
-- [Example Exam Question Bank with Follow-up Questions (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/question_bank.pdf)
+- [Example Final Exam Question Bank with Follow-up Questions (Allison)](https://atheobold.github.io/oral-exams-uscots/resources/question_bank.pdf)
 
 - [Example Post Homework Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/mini-quiz2.pdf)
 
-- [Example Final Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/Exam 1 Review.pdf)
+- [Example Midterm Oral Exam (Paul)](https://atheobold.github.io/oral-exams-uscots/resources/Exam 1 Review.pdf)
 
 
 ---
@@ -47,4 +47,3 @@ Throughout the session participants will consider how they might apply ideas bei
 <img src="images/paul.jpg" align = "right" width = "115px" height = "150px">
 
 [**Paul Roback**]() (St. Olaf College) is the Kenneth O. Bjork Distinguished Professor of Statistics and Data Science and Director of the Center for Interdisciplinary Research at St. Olaf College in Northfield, Minnesota.  Paul recently completed the book [Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R](https://bookdown.org/roback/bookdown-BeyondMLR/) with Julie Legler.  Paul is the past Chair of the ASA Section on Statistical and Data Science Education, conducts applied research using multilevel modeling, text analysis, and Bayesian methods, and has been a statistical consultant in the pharmaceutical, health care, and food processing industries. 
-is a Kenneth Bjork Distinguished Professor of Mathematics, Statistics, and Computer Science and Director of the Center for Interdisciplinary Research at St. Olaf College. 
