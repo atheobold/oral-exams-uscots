@@ -265,3 +265,16 @@ div.datatables {
   display: table;
   clear: both;
 }
+
+#special_timer.running {
+  background-color: black;
+  background-image: url(img/bg-stars.gif);
+}
+#special_timer.finished {
+  background-color: black;
+  background-image: url(img/bg-sqfw.gif);
+  background-size: cover;
+}
+#special_timer.running .countdown-digits {
+  color: #fdf6e3;
+}

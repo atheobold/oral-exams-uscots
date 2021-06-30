@@ -117,7 +117,7 @@ class: middle, center, inverse
 # .pink[.hand[.large[A variety of oral assessments]]]
 
 .large[
-.honey[Paul] -- A follow-up assessment to a homework assignment or exam
+.honey[Paul] -- A follow-up assessment to a homework assignment or a component of an exam
 
 .mango[Allison] -- A summative midterm or final exam 
 ]
@@ -142,7 +142,7 @@ class: middle
 
 class: inverse, middle
 
-# .larger[Why oral assessments?]
+# .larger[.hand[Why oral assessments?]]
 
 ---
 
@@ -267,14 +267,16 @@ knitr::include_graphics("../images/muscle.png")
 .large[
 GAISE emphasis on conceptual understanding
 
+</br>
 Facets of understanding 
 ]
 ]
 
---
 
 .pull-right[
 .large[
+</br>
+
 Witnessing the increase in cheating in the spring of 2020.
 ]
 ]
@@ -422,15 +424,14 @@ class: middle
 
 .pull-right[
 # .your-turn[
-
 Discuss these ideas with fellow educators
-
-```{r echo = FALSE}
-countdown(minutes = 20)
+```{r, echo = FALSE, fig.align = 'right', out.width = "30%"}
+knitr::include_graphics("../images/timer.jpg")
 ```
-]
-]
 
+
+]
+] 
 
 ---
 
